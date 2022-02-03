@@ -4,4 +4,4 @@ Analysis and explanation of some of the most common Block Matching Algorithms wi
 
 Presented in the 10th Annual RCSE Conference on Computer and Systems Engineering (CCSE 2020)
 
-By Tuna Temiz
+By Tuna Temiz.
